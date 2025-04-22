@@ -13,5 +13,5 @@ export const memes = [
         id: 3,
         title: "Club 57 - Temp 2",
         image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffebreteen.com.br%2F2a-temporada-club-57%2F&psig=AOvVaw0jltScvORo2QRP89a8IklA&ust=1745425257301000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj_xKCG7IwDFQAAAAAdAAAAABAQ",
-    }
-]
+    },
+];
